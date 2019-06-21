@@ -2,7 +2,7 @@
 
 1. Clone the project.
 
-2. Go inside Resaurant Folder and run it on port 8000.
+2. Run it on port 8000.
 
 3. In this folder, start up a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer.
 
